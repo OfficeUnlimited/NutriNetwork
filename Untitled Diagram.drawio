@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T13:18:29.124Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="PYR0bFeWa-3HgUyqCg-7" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T13:19:33.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="OvxN0qOQzFe-h4Qdxu_R" version="24.4.13" type="github">
   <diagram name="Page-1" id="x-4lfFE1bHsVELgbJs9u">
     <mxGraphModel dx="2074" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="BqbNoxISk8H6lMRw6kgT-11" value="&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Calibri, sans-serif, serif, EmojiFont; font-size: 14.6667px; text-align: start; text-wrap: wrap;&quot;&gt;&amp;nbsp;ND-RS01&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Calibri, sans-serif, serif, EmojiFont; font-size: 14.6667px; text-align: start; text-wrap: wrap;&quot;&gt;DB Server Exact&lt;/span&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" parent="1" vertex="1">
           <mxGeometry x="527.61" y="810" width="41" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BqbNoxISk8H6lMRw6kgT-16" value="ND-AS01&lt;div&gt;App Server Exact&lt;/div&gt;&lt;div&gt;Web Server WMS&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server.svg;" parent="1" vertex="1">
+        <mxCell id="BqbNoxISk8H6lMRw6kgT-16" value="ND-AS01&lt;div&gt;App Server Exact&lt;/div&gt;&lt;div&gt;Web Server WMS&lt;/div&gt;&lt;div&gt;http/80&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server.svg;" parent="1" vertex="1">
           <mxGeometry x="407.05" y="810" width="41" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BqbNoxISk8H6lMRw6kgT-20" value="WMS client" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/CrystalClear/48x48/devices/handheld.png" parent="1" vertex="1">
