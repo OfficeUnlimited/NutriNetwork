@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T11:32:39.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Qo2hh-VsShRauerfzrMj" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T11:33:31.169Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="g5KExegD5NWzYMSadt04" version="24.4.13" type="github">
   <diagram name="Page-1" id="x-4lfFE1bHsVELgbJs9u">
     <mxGraphModel dx="2074" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,10 +17,10 @@
           <mxGeometry x="450.55" y="570" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BqbNoxISk8H6lMRw6kgT-11" value="&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Calibri, sans-serif, serif, EmojiFont; font-size: 14.6667px; text-align: start; text-wrap: wrap;&quot;&gt;&amp;nbsp;ND-RS01&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Calibri, sans-serif, serif, EmojiFont; font-size: 14.6667px; text-align: start; text-wrap: wrap;&quot;&gt;DB Server Exact&lt;/span&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="455.05" y="770" width="41" height="50" as="geometry" />
+          <mxGeometry x="590" y="780" width="41" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BqbNoxISk8H6lMRw6kgT-16" value="ND-AS01&lt;div&gt;App Server Exact&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="610" y="770" width="41" height="50" as="geometry" />
+          <mxGeometry x="455.05" y="780" width="41" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BqbNoxISk8H6lMRw6kgT-19" value="ND-WS01&lt;div&gt;WMS&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="1">
           <mxGeometry x="320" y="770" width="40" height="50" as="geometry" />
