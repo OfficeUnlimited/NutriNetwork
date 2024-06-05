@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T09:35:28.715Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.4.13" etag="gYfIdZzJbsemEk1VTwW6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T09:50:47.994Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Qz9jPRQdMSbzNzYC0aBd" version="24.4.13" type="github">
   <diagram name="Page-1" id="x-4lfFE1bHsVELgbJs9u">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BqbNoxISk8H6lMRw6kgT-4" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="404.13" y="570" width="142.86" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BqbNoxISk8H6lMRw6kgT-5" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="420" y="300" width="111.11" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BqbNoxISk8H6lMRw6kgT-9" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_Router.svg;" vertex="1" parent="1">
+          <mxGeometry x="450.55" y="490" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BqbNoxISk8H6lMRw6kgT-10" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_Router.svg;" vertex="1" parent="1">
+          <mxGeometry x="451.55" y="400" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="BqbNoxISk8H6lMRw6kgT-11" value="&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Calibri, sans-serif, serif, EmojiFont; font-size: 14.6667px; text-align: start; text-wrap: wrap;&quot;&gt;&amp;nbsp;ND-RS01&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Calibri, sans-serif, serif, EmojiFont; font-size: 14.6667px; text-align: start; text-wrap: wrap;&quot;&gt;DB Server Exact&lt;/span&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="455.05" y="690" width="41" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BqbNoxISk8H6lMRw6kgT-16" value="ND-AS01&lt;div&gt;App Server Exact&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="610" y="690" width="41" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BqbNoxISk8H6lMRw6kgT-19" value="ND-WS01&lt;div&gt;WMS&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="320" y="690" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BqbNoxISk8H6lMRw6kgT-20" value="WMS client" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/CrystalClear/48x48/devices/handheld.png" vertex="1" parent="1">
+          <mxGeometry x="451.56" y="180" width="48" height="48" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
